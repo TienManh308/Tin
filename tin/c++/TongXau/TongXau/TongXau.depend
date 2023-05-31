@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1679670303 source:e:\tin\c++\tongxau\tongxau\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
